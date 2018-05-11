@@ -1,3 +1,4 @@
+extern crate hex;
 extern crate sha3;
 
-pub mod utils;
+mod utils;
